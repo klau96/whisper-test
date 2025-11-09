@@ -4,7 +4,10 @@ import os
 
 project_dir = os.path.dirname(os.path.abspath(__file__))
 file_path = os.path.join(
-    project_dir, "files", "i'm tired (markiplier)", "i'm tired.mp3"
+    project_dir,
+    "files",
+    "video2",
+    "Watch This Video When You’re Feeling Down [-SJywvgaJEI].mp3",
 )
 
 print("pathing:", file_path)
